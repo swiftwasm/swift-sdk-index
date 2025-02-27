@@ -1,0 +1,35 @@
+{
+    "$schema": "../build.schema.json",
+    "metadata": {
+        "versions": {
+            "swift": "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-06-a",
+            "swiftwasm-build": "f7ecdb92d9a780bf2166141d6903f677f74dd526"
+        }
+    },
+    "swift-sdks": {
+        "amazonlinux2_x86_64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-amazonlinux2_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-amazonlinux2_x86_64.artifactbundle.zip"
+        },
+        "macos_arm64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-macos_arm64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-macos_arm64.artifactbundle.zip"
+        },
+        "macos_x86_64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-macos_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-macos_x86_64.artifactbundle.zip"
+        },
+        "ubuntu20.04_aarch64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-ubuntu20.04_aarch64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-ubuntu20.04_aarch64.artifactbundle.zip"
+        },
+        "ubuntu20.04_x86_64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-ubuntu20.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-ubuntu20.04_x86_64.artifactbundle.zip"
+        },
+        "ubuntu22.04_x86_64": {
+            "id": "6.0-SNAPSHOT-2024-04-08-a-ubuntu22.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-04-08-a/swift-wasm-6.0-SNAPSHOT-2024-04-08-a-ubuntu22.04_x86_64.artifactbundle.zip"
+        }
+    }
+}

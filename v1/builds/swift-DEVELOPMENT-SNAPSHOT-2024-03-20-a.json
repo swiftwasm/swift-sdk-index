@@ -1,0 +1,39 @@
+{
+    "$schema": "../build.schema.json",
+    "metadata": {
+        "versions": {
+            "swift": "swift-DEVELOPMENT-SNAPSHOT-2024-03-20-a",
+            "swiftwasm-build": "20d712073b78672380a5882e3ea85f87ca0e34f6"
+        }
+    },
+    "swift-sdks": {
+        "amazonlinux2_x86_64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-amazonlinux2_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-amazonlinux2_x86_64.artifactbundle.zip"
+        },
+        "macos_arm64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-macos_arm64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-macos_arm64.artifactbundle.zip"
+        },
+        "macos_x86_64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-macos_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-macos_x86_64.artifactbundle.zip"
+        },
+        "ubuntu18.04_x86_64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu18.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu18.04_x86_64.artifactbundle.zip"
+        },
+        "ubuntu20.04_aarch64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu20.04_aarch64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu20.04_aarch64.artifactbundle.zip"
+        },
+        "ubuntu20.04_x86_64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu20.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu20.04_x86_64.artifactbundle.zip"
+        },
+        "ubuntu22.04_x86_64": {
+            "id": "DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu22.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2024-03-22-a-ubuntu22.04_x86_64.artifactbundle.zip"
+        }
+    }
+}

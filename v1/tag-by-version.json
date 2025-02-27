@@ -1,0 +1,1076 @@
+{
+  "Swift version 5.9.2 (swift-5.9.2-RELEASE)": [
+    "swift-5.9.2-RELEASE"
+  ],
+  "Apple Swift version 5.9.2 (swift-5.9.2-RELEASE)": [
+    "swift-5.9.2-RELEASE"
+  ],
+  "Swift version 6.0.1 (swift-6.0.1-RELEASE)": [
+    "swift-6.0.1-RELEASE"
+  ],
+  "Apple Swift version 6.0.1 (swift-6.0.1-RELEASE)": [
+    "swift-6.0.1-RELEASE"
+  ],
+  "Swift version 6.0.2 (swift-6.0.2-RELEASE)": [
+    "swift-6.0.2-RELEASE"
+  ],
+  "Apple Swift version 6.0.2 (swift-6.0.2-RELEASE)": [
+    "swift-6.0.2-RELEASE"
+  ],
+  "Swift version 6.0.3 (swift-6.0.3-RELEASE)": [
+    "swift-6.0.3-RELEASE"
+  ],
+  "Apple Swift version 6.0.3 (swift-6.0.3-RELEASE)": [
+    "swift-6.0.3-RELEASE"
+  ],
+  "Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 4527d02d8dd09f8)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-12-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 4527d02d8dd09f8)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-12-a"
+  ],
+  "Swift version 5.10-dev (LLVM 8d15c8879299c88, Swift 63c8b551eb2f613)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-08-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 8d15c8879299c88, Swift 63c8b551eb2f613)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-08-a"
+  ],
+  "Swift version 5.10-dev (LLVM dbfaba0078e9380, Swift 63c8b551eb2f613)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-09-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM dbfaba0078e9380, Swift 63c8b551eb2f613)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-09-a"
+  ],
+  "Swift version 5.10-dev (LLVM dbfaba0078e9380, Swift d7111290a279135)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-14-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM dbfaba0078e9380, Swift d7111290a279135)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-14-a"
+  ],
+  "Swift version 5.10-dev (LLVM 7c3b53ecaad54fb, Swift d7111290a279135)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-17-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 7c3b53ecaad54fb, Swift d7111290a279135)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-17-a"
+  ],
+  "Swift version 5.10-dev (LLVM 7c3b53ecaad54fb, Swift ebaa8c65f94e6a1)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-27-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 7c3b53ecaad54fb, Swift ebaa8c65f94e6a1)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-27-a"
+  ],
+  "Swift version 5.10-dev (LLVM 82b7bb59be4a9c0, Swift ebaa8c65f94e6a1)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-28-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 82b7bb59be4a9c0, Swift ebaa8c65f94e6a1)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-28-a"
+  ],
+  "Swift version 5.10-dev (LLVM 82b7bb59be4a9c0, Swift 8d5cd5a47d6a01e)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-29-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 82b7bb59be4a9c0, Swift 8d5cd5a47d6a01e)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-02-29-a"
+  ],
+  "Swift version 5.10-dev (LLVM 5dc9d563e5a6cd2, Swift 9bfe759d7048cb6)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-03-02-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM 5dc9d563e5a6cd2, Swift 9bfe759d7048cb6)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-03-02-a"
+  ],
+  "Swift version 5.10-dev (LLVM e98989b1092ff3a, Swift 959f0c7f8e9bb58)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-26-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-28-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-29-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-30-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM e98989b1092ff3a, Swift 959f0c7f8e9bb58)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-26-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-28-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-29-a",
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-30-a"
+  ],
+  "Swift version 5.10-dev (LLVM e98989b1092ff3a, Swift 0e5cb27c42ec3c7)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-31-a"
+  ],
+  "Apple Swift version 5.10-dev (LLVM e98989b1092ff3a, Swift 0e5cb27c42ec3c7)": [
+    "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-31-a"
+  ],
+  "Swift version 6.0-dev (LLVM dee589f75475708, Swift ac473570830fe6d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-03-26-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM dee589f75475708, Swift ac473570830fe6d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-03-26-a"
+  ],
+  "Swift version 6.0-dev (LLVM c8f6911916da1be, Swift 1dfa3422b9c9443)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c8f6911916da1be, Swift 1dfa3422b9c9443)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM d0f5f185ae52b50, Swift bef8b61c7933b80)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-04-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM d0f5f185ae52b50, Swift bef8b61c7933b80)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-04-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3b959ba388a8ad9, Swift bb339b8f50f01fb)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-05-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3b959ba388a8ad9, Swift bb339b8f50f01fb)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-05-a"
+  ],
+  "Swift version 6.0-dev (LLVM c7c963afc327ad1, Swift bca5018bca30ddf)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c7c963afc327ad1, Swift bca5018bca30ddf)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM c7c963afc327ad1, Swift 3cb184a65fc0af0)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-08-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c7c963afc327ad1, Swift 3cb184a65fc0af0)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-08-a"
+  ],
+  "Swift version 6.0-dev (LLVM 2ff2ebe926a0eb0, Swift b4b7baa1d14d98d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-09-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 2ff2ebe926a0eb0, Swift b4b7baa1d14d98d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-09-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0514f4bf54fafc9, Swift a1d3ac14a607716)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-10-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0514f4bf54fafc9, Swift a1d3ac14a607716)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-10-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3bcf7f718d52bc4, Swift c83caf56b6eaa33)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3bcf7f718d52bc4, Swift c83caf56b6eaa33)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3bcf7f718d52bc4, Swift 6d5fa1ee5c0d8c4)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-14-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3bcf7f718d52bc4, Swift 6d5fa1ee5c0d8c4)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-14-a"
+  ],
+  "Swift version 6.0-dev (LLVM c5ac128e678cf31, Swift 59748d9cf60064b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-15-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c5ac128e678cf31, Swift 59748d9cf60064b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-15-a"
+  ],
+  "Swift version 6.0-dev (LLVM c5ac128e678cf31, Swift 31c46020c811a43)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-16-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c5ac128e678cf31, Swift 31c46020c811a43)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-16-a"
+  ],
+  "Swift version 6.0-dev (LLVM 2c365f15bfc9eae, Swift 4e30159986a0271)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-18-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 2c365f15bfc9eae, Swift 4e30159986a0271)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-18-a"
+  ],
+  "Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 6eb92fb531fedcc)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-26-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 6eb92fb531fedcc)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-26-a"
+  ],
+  "Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 717c34105718d88)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-27-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 717c34105718d88)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-27-a"
+  ],
+  "Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 6a1eed7489cc98f)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-29-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b83e97edcf97a27, Swift 6a1eed7489cc98f)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-29-a"
+  ],
+  "Swift version 6.0-dev (LLVM 7b8e6346027d2b1, Swift 763421cee31dc8f)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-30-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 7b8e6346027d2b1, Swift 763421cee31dc8f)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-04-30-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0872cb59adca699, Swift d138ca4b1442d90)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0872cb59adca699, Swift d138ca4b1442d90)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0872cb59adca699, Swift 36e0c9e4c07945a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-04-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0872cb59adca699, Swift 36e0c9e4c07945a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-04-a"
+  ],
+  "Swift version 6.0-dev (LLVM 303596bbc496f6c, Swift ae12ced08174424)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-05-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 303596bbc496f6c, Swift ae12ced08174424)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-05-a"
+  ],
+  "Swift version 6.0-dev (LLVM 71c8b200629d793, Swift 6783de8067c0bc5)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 71c8b200629d793, Swift 6783de8067c0bc5)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM bf8bbb910874156, Swift 2a6163f0e50d955)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM bf8bbb910874156, Swift 2a6163f0e50d955)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM bf8bbb910874156, Swift a0bb875256e41ae)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-08-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM bf8bbb910874156, Swift a0bb875256e41ae)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-08-a"
+  ],
+  "Swift version 6.0-dev (LLVM 6e13b8be259f20f, Swift e7c2412597ed910)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-12-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 6e13b8be259f20f, Swift e7c2412597ed910)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-12-a"
+  ],
+  "Swift version 6.0-dev (LLVM 6e13b8be259f20f, Swift 372de4670b9cd55)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 6e13b8be259f20f, Swift 372de4670b9cd55)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM de395d39a90ed7a, Swift 490cf64aee23f13)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-18-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM de395d39a90ed7a, Swift 490cf64aee23f13)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-18-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5f87d6ee2f8c800, Swift 5c01ca13866debd)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-19-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5f87d6ee2f8c800, Swift 5c01ca13866debd)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-19-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5f87d6ee2f8c800, Swift c4cddb4063d388c)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-20-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5f87d6ee2f8c800, Swift c4cddb4063d388c)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-20-a"
+  ],
+  "Swift version 6.0-dev (LLVM daeb4ab72a2e23a, Swift 0d84a9ba73d27c8)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-21-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM daeb4ab72a2e23a, Swift 0d84a9ba73d27c8)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-21-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5b37bd4c1c578e9, Swift 54898ce105c7185)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-22-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5b37bd4c1c578e9, Swift 54898ce105c7185)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-22-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 09b8b0861a69528)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-02-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 09b8b0861a69528)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-02-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 907bb9000571f04)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 907bb9000571f04)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 9b77dd4242f3a5b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-04-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift 9b77dd4242f3a5b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-04-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift f8774c3450a6c58)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift f8774c3450a6c58)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift e14d3a3ce069d6b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3602748d4ec9947, Swift e14d3a3ce069d6b)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM 4523e78e97ec8bb, Swift bb44c63f7a5b541)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-09-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 4523e78e97ec8bb, Swift bb44c63f7a5b541)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-09-a"
+  ],
+  "Swift version 6.0-dev (LLVM a41678ee19c803d, Swift a9abcb663e976d7)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-10-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a41678ee19c803d, Swift a9abcb663e976d7)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-10-a"
+  ],
+  "Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 67416530ec6f7b4)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-11-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 67416530ec6f7b4)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-11-a"
+  ],
+  "Swift version 6.0-dev (LLVM a41678ee19c803d, Swift ce381e7b159dfac)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a41678ee19c803d, Swift ce381e7b159dfac)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 97ef6739c064b9a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-15-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a41678ee19c803d, Swift 97ef6739c064b9a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-15-a"
+  ],
+  "Swift version 6.0-dev (LLVM febd42d2f7cd87e, Swift c5a97385536617c)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-16-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM febd42d2f7cd87e, Swift c5a97385536617c)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-16-a"
+  ],
+  "Swift version 6.0-dev (LLVM 713644c0f4ce983, Swift 5e8e65996b4ca1d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-17-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 713644c0f4ce983, Swift 5e8e65996b4ca1d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-17-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5bbcb7bc1701d40, Swift 4305bf619b158b9)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-19-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5bbcb7bc1701d40, Swift 4305bf619b158b9)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-19-a"
+  ],
+  "Swift version 6.0-dev (LLVM c3efe9282719c35, Swift b163fed2b3101e0)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-22-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c3efe9282719c35, Swift b163fed2b3101e0)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-22-a"
+  ],
+  "Swift version 6.0.2-dev (LLVM 43d73cb0cc589f7, Swift aaa632cea622394)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-17-a"
+  ],
+  "Apple Swift version 6.0.2-dev (LLVM 43d73cb0cc589f7, Swift aaa632cea622394)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-17-a"
+  ],
+  "Swift version 6.0.3-dev (LLVM 81a2745a5c40b5f, Swift 8f95e04bb5d9d9a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-08-a"
+  ],
+  "Apple Swift version 6.0.3-dev (LLVM 81a2745a5c40b5f, Swift 8f95e04bb5d9d9a)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-08-a"
+  ],
+  "Swift version 6.0.3-dev (LLVM 81a2745a5c40b5f, Swift 322713e4654258d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-12-a"
+  ],
+  "Apple Swift version 6.0.3-dev (LLVM 81a2745a5c40b5f, Swift 322713e4654258d)": [
+    "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-12-a"
+  ],
+  "Swift version 6.1-dev (LLVM 3a45ba43180a40a, Swift d415967adc4eb7b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-04-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 3a45ba43180a40a, Swift d415967adc4eb7b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-04-a"
+  ],
+  "Swift version 6.1-dev (LLVM 99f0b042a85cc03, Swift f8d933288f3cc98)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-11-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 99f0b042a85cc03, Swift f8d933288f3cc98)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-11-a"
+  ],
+  "Swift version 6.1-dev (LLVM 065b5711936fee9, Swift f8d933288f3cc98)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-12-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 065b5711936fee9, Swift f8d933288f3cc98)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-12-a"
+  ],
+  "Swift version 6.1-dev (LLVM 4c67ec0b66d9842, Swift 09efe037a73660e)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-15-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 4c67ec0b66d9842, Swift 09efe037a73660e)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-15-a"
+  ],
+  "Swift version 6.1-dev (LLVM 6eae0943a5f04cc, Swift 1b742c01152c5fc)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-16-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 6eae0943a5f04cc, Swift 1b742c01152c5fc)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-16-a"
+  ],
+  "Swift version 6.1-dev (LLVM 40f7f305faf9724, Swift 89619f426a97e55)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-18-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 40f7f305faf9724, Swift 89619f426a97e55)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-18-a"
+  ],
+  "Swift version 6.1-dev (LLVM 38c9bd4e92f23a7, Swift 91c6425a54ae3b3)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-20-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 38c9bd4e92f23a7, Swift 91c6425a54ae3b3)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-20-a"
+  ],
+  "Swift version 6.1-dev (LLVM dd0f3b29e584617, Swift 12fb6cb92508551)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-21-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM dd0f3b29e584617, Swift 12fb6cb92508551)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2024-12-21-a"
+  ],
+  "Swift version 6.1-dev (LLVM 207b68598611d2b, Swift b8ea6cfe0d4d266)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-03-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 207b68598611d2b, Swift b8ea6cfe0d4d266)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-03-a"
+  ],
+  "Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 5abc22eadd799c9)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-09-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 5abc22eadd799c9)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-09-a"
+  ],
+  "Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 2f7b5e48c00aafa)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-10-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 2f7b5e48c00aafa)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-10-a"
+  ],
+  "Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 8b3fe89c01b5c72)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-11-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 8b3fe89c01b5c72)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-11-a"
+  ],
+  "Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 7b4a1abbdfb42e1)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-12-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM ad53c6a089b644a, Swift 7b4a1abbdfb42e1)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-12-a"
+  ],
+  "Swift version 6.1-dev (LLVM 9c7f25b8b9f297f, Swift a81411a0ffb6312)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-14-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 9c7f25b8b9f297f, Swift a81411a0ffb6312)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-14-a"
+  ],
+  "Swift version 6.1-dev (LLVM 14c8403e221592c, Swift 714ecbd63f36510)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-16-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 14c8403e221592c, Swift 714ecbd63f36510)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-16-a"
+  ],
+  "Swift version 6.1-dev (LLVM 38a3fc37c5f5e7a, Swift eedae18ae4df60a)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-17-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 38a3fc37c5f5e7a, Swift eedae18ae4df60a)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-17-a"
+  ],
+  "Swift version 6.1-dev (LLVM 5f7c9060383ef80, Swift dc7459118d4caa3)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-22-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 5f7c9060383ef80, Swift dc7459118d4caa3)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-22-a"
+  ],
+  "Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-23-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM a321a98f4e5b06a, Swift 7a0a6e7bea8c1d8)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-23-a"
+  ],
+  "Swift version 6.1-dev (LLVM 3f0475925665ab9, Swift 2e850bba38055b6)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-24-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 3f0475925665ab9, Swift 2e850bba38055b6)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-24-a"
+  ],
+  "Swift version 6.1-dev (LLVM c1f793618461fb2, Swift e108415e9e75d94)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-25-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM c1f793618461fb2, Swift e108415e9e75d94)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-25-a"
+  ],
+  "Swift version 6.1-dev (LLVM c1f793618461fb2, Swift 9cbe177dbd3e1fd)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-27-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM c1f793618461fb2, Swift 9cbe177dbd3e1fd)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-27-a"
+  ],
+  "Swift version 6.1-dev (LLVM 4a3eec76be0843e, Swift 72810db3492257a)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-29-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 4a3eec76be0843e, Swift 72810db3492257a)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-29-a"
+  ],
+  "Swift version 6.1-dev (LLVM 306fe8590018379, Swift 48c06893272002b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-30-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 306fe8590018379, Swift 48c06893272002b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-30-a"
+  ],
+  "Swift version 6.1-dev (LLVM 02a739edc479f59, Swift 180301fd4a488d4)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-31-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 02a739edc479f59, Swift 180301fd4a488d4)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-01-31-a"
+  ],
+  "Swift version 6.1-dev (LLVM 8d8a92210b0eacc, Swift 1fbbebe8adcff7c)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-02-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 8d8a92210b0eacc, Swift 1fbbebe8adcff7c)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-02-a"
+  ],
+  "Swift version 6.1-dev (LLVM d9af428a389654e, Swift ea69594c518ac60)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-04-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM d9af428a389654e, Swift ea69594c518ac60)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-04-a"
+  ],
+  "Swift version 6.1-dev (LLVM 81522c202977e07, Swift 80419b97e5d71dd)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-06-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 81522c202977e07, Swift 80419b97e5d71dd)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-06-a"
+  ],
+  "Swift version 6.1-dev (LLVM 36d7ebc48349af6, Swift c710b6d3de6a71b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-07-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-10-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 36d7ebc48349af6, Swift c710b6d3de6a71b)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-07-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-10-a"
+  ],
+  "Swift version 6.1-dev (LLVM 2fc2e7f20328e24, Swift a4f13dcb7e8cce5)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-14-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 2fc2e7f20328e24, Swift a4f13dcb7e8cce5)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-14-a"
+  ],
+  "Swift version 6.1-dev (LLVM 8e2e33baea9356f, Swift c2a0cc7937d7271)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-17-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 8e2e33baea9356f, Swift c2a0cc7937d7271)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-17-a"
+  ],
+  "Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift 97d775b962f2f84)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-18-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift 97d775b962f2f84)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-18-a"
+  ],
+  "Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift 8502c4ac9d2c0a2)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-19-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-20-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift 8502c4ac9d2c0a2)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-19-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-20-a"
+  ],
+  "Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift f5a14e0ce37c850)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-21-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM da5a62cb93d70ef, Swift f5a14e0ce37c850)": [
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-02-21-a"
+  ],
+  "Swift version 6.0-dev (LLVM 22782c4aa467921, Swift 69ef3add6656b49)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-02-29-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 22782c4aa467921, Swift 69ef3add6656b49)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-02-29-a"
+  ],
+  "Swift version 6.0-dev (LLVM aa5a99efe7c5734, Swift 2f6e9b392b15bf0)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-01-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM aa5a99efe7c5734, Swift 2f6e9b392b15bf0)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-01-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0c7823cab15dec9, Swift 0cc05909334c6f7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0c7823cab15dec9, Swift 0cc05909334c6f7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5e14ea45080a697, Swift 52ad460759e3d5f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-04-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5e14ea45080a697, Swift 52ad460759e3d5f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-04-a"
+  ],
+  "Swift version 6.0-dev (LLVM 4c7038e3c1be41e, Swift afeef855135363f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 4c7038e3c1be41e, Swift afeef855135363f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM ce41a43bba95b2b, Swift 1a840948a0905df)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM ce41a43bba95b2b, Swift 1a840948a0905df)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM b7ab93809c4cc92, Swift 675fda3a4bb2d0a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-12-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b7ab93809c4cc92, Swift 675fda3a4bb2d0a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-12-a"
+  ],
+  "Swift version 6.0-dev (LLVM d1625da873daa4c, Swift bae6450bf96dceb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM d1625da873daa4c, Swift bae6450bf96dceb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM 1ad249b55ef5cc0, Swift b10d97dd01fac82)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-20-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 1ad249b55ef5cc0, Swift b10d97dd01fac82)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-20-a"
+  ],
+  "Swift version 6.0-dev (LLVM 4aa2cfd77d0beee, Swift 311c55f995371dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-26-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 4aa2cfd77d0beee, Swift 311c55f995371dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-26-a"
+  ],
+  "Swift version 6.0-dev (LLVM 87789f04c6598f1, Swift 52e8fbc115ca18f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-27-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 87789f04c6598f1, Swift 52e8fbc115ca18f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-27-a"
+  ],
+  "Swift version 6.0-dev (LLVM b7b175a4a1263ea, Swift 07eb52a80dee5a1)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-28-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b7b175a4a1263ea, Swift 07eb52a80dee5a1)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-28-a"
+  ],
+  "Swift version 6.0-dev (LLVM a8cd54c4da01fef, Swift 1f9dae121587e1f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-31-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a8cd54c4da01fef, Swift 1f9dae121587e1f)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-03-31-a"
+  ],
+  "Swift version 6.0-dev (LLVM a8cd54c4da01fef, Swift bdc37178347d423)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-01-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM a8cd54c4da01fef, Swift bdc37178347d423)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-01-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3dd3bce1adb5b65, Swift 1f09be97a890c3e)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-02-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3dd3bce1adb5b65, Swift 1f09be97a890c3e)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-02-a"
+  ],
+  "Swift version 6.0-dev (LLVM cb4f50b342f3cf9, Swift fc5da5342ce965c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM cb4f50b342f3cf9, Swift fc5da5342ce965c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM ed26ccb500109e5, Swift b3b2f37262690ca)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-04-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM ed26ccb500109e5, Swift b3b2f37262690ca)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-04-a"
+  ],
+  "Swift version 6.0-dev (LLVM 01231f56c62f4c4, Swift ec437fa055c1a8a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-12-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 01231f56c62f4c4, Swift ec437fa055c1a8a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-12-a"
+  ],
+  "Swift version 6.0-dev (LLVM 01231f56c62f4c4, Swift abaa63821080b92)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 01231f56c62f4c4, Swift abaa63821080b92)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM 384be736a3af7f0, Swift 590c7cd92528fdb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-23-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 384be736a3af7f0, Swift 590c7cd92528fdb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-23-a"
+  ],
+  "Swift version 6.0-dev (LLVM 320c9b9b7bd4fd8, Swift 49dd95fae3faf89)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-25-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 320c9b9b7bd4fd8, Swift 49dd95fae3faf89)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-25-a"
+  ],
+  "Swift version 6.0-dev (LLVM 6bf5b76ff4d6094, Swift c936202297ee6d5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-26-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 6bf5b76ff4d6094, Swift c936202297ee6d5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-26-a"
+  ],
+  "Swift version 6.0-dev (LLVM 85bfcc565707685, Swift 5019d23c62acba4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-27-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 85bfcc565707685, Swift 5019d23c62acba4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-27-a"
+  ],
+  "Swift version 6.0-dev (LLVM 85bfcc565707685, Swift 250758335c888cc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-28-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 85bfcc565707685, Swift 250758335c888cc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-28-a"
+  ],
+  "Swift version 6.0-dev (LLVM caa3e1810260259, Swift 74ed041119bee77)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-30-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM caa3e1810260259, Swift 74ed041119bee77)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-04-30-a"
+  ],
+  "Swift version 6.0-dev (LLVM b66077aefd3be08, Swift 84d36181a762913)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-05-01-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM b66077aefd3be08, Swift 84d36181a762913)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-05-01-a"
+  ],
+  "Swift version 6.0-dev (LLVM c7c87ee42989d4b, Swift 0aa0687fe0f4047)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM c7c87ee42989d4b, Swift 0aa0687fe0f4047)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM 70f5988c1c84591, Swift 4f8181dde6a5a62)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 70f5988c1c84591, Swift 4f8181dde6a5a62)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM 25f401da89fc02a, Swift dbe1a982d9252c9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 25f401da89fc02a, Swift dbe1a982d9252c9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM 579155491d559cc, Swift 64869e5a42221b2)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-08-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 579155491d559cc, Swift 64869e5a42221b2)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-08-a"
+  ],
+  "Swift version 6.0-dev (LLVM 36e25ed394834ae, Swift 5dbf31a5d316012)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-11-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 36e25ed394834ae, Swift 5dbf31a5d316012)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-11-a"
+  ],
+  "Swift version 6.0-dev (LLVM 57177aa1b91540b, Swift 3889ede01784b87)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-12-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 57177aa1b91540b, Swift 3889ede01784b87)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-12-a"
+  ],
+  "Swift version 6.0-dev (LLVM 57177aa1b91540b, Swift 8be62863326595c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 57177aa1b91540b, Swift 8be62863326595c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-06-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM 7a0ecf027d00801, Swift 75a00adcf0ce04a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-01-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 7a0ecf027d00801, Swift 75a00adcf0ce04a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-01-a"
+  ],
+  "Swift version 6.0-dev (LLVM 7a0ecf027d00801, Swift 3ccbcfe8cd40ded)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-02-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 7a0ecf027d00801, Swift 3ccbcfe8cd40ded)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-02-a"
+  ],
+  "Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift 7cfbe97f407d952)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-03-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift 7cfbe97f407d952)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-03-a"
+  ],
+  "Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift 549566e03752cd9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-05-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift 549566e03752cd9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-05-a"
+  ],
+  "Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift d5b4a178f02eaf9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-06-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 76ba61e88550d3b, Swift d5b4a178f02eaf9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-06-a"
+  ],
+  "Swift version 6.0-dev (LLVM 5ed3fc3f662a007, Swift e2f80064508f3b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 5ed3fc3f662a007, Swift e2f80064508f3b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM 3f3acbc8edc5b4a, Swift ad61e531a3c1fad)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-08-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 3f3acbc8edc5b4a, Swift ad61e531a3c1fad)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-08-a"
+  ],
+  "Swift version 6.0-dev (LLVM 96ec4bf19dbeed6, Swift 7e4425c97e8cbe4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-09-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 96ec4bf19dbeed6, Swift 7e4425c97e8cbe4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-09-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 5bddd984c40729d)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-10-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 5bddd984c40729d)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-10-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 5916325b39fe7a5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-11-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 5916325b39fe7a5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-11-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift e08bd9565d79e53)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-13-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift e08bd9565d79e53)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-13-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift c11b301188b0399)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-14-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift c11b301188b0399)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-14-a"
+  ],
+  "Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 01bd2b4f8c84d45)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-15-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 0ad8ad0245d47b4, Swift 01bd2b4f8c84d45)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-07-15-a"
+  ],
+  "Swift version 6.0-dev (LLVM 73a346c9caf32cc, Swift 3e21fc6610cc917)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-07-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 73a346c9caf32cc, Swift 3e21fc6610cc917)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-07-a"
+  ],
+  "Swift version 6.0-dev (LLVM 6c1a2ac10cabb71, Swift 54908861448c8e8)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-19-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 6c1a2ac10cabb71, Swift 54908861448c8e8)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-19-a"
+  ],
+  "Swift version 6.0-dev (LLVM 6c1a2ac10cabb71, Swift 2a04604247a93e7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-20-a"
+  ],
+  "Apple Swift version 6.0-dev (LLVM 6c1a2ac10cabb71, Swift 2a04604247a93e7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-20-a"
+  ],
+  "Swift version 6.1-dev (LLVM 9d45b9c9d5c48a0, Swift 08721cf939ec503)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-21-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 9d45b9c9d5c48a0, Swift 08721cf939ec503)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-21-a"
+  ],
+  "Swift version 6.1-dev (LLVM 834570a7ffed2b3, Swift 5080628c0a92e1c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-26-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 834570a7ffed2b3, Swift 5080628c0a92e1c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-26-a"
+  ],
+  "Swift version 6.1-dev (LLVM fe0f467028c23cf, Swift 406b8bd8921b5dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-29-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM fe0f467028c23cf, Swift 406b8bd8921b5dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-08-29-a"
+  ],
+  "Swift version 6.1-dev (LLVM bb19d2dc4943d17, Swift 2eade1e3cc137b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-04-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM bb19d2dc4943d17, Swift 2eade1e3cc137b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-04-a"
+  ],
+  "Swift version 6.1-dev (LLVM 4822b1faeb10cc4, Swift be9d34482d107b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-05-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 4822b1faeb10cc4, Swift be9d34482d107b5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-05-a"
+  ],
+  "Swift version 6.1-dev (LLVM 6f0a61d8ba20c6a, Swift cf2af6809ecd52c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-06-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 6f0a61d8ba20c6a, Swift cf2af6809ecd52c)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-06-a"
+  ],
+  "Swift version 6.1-dev (LLVM c0b51febacb534a, Swift 4693a4765f04f22)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-11-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM c0b51febacb534a, Swift 4693a4765f04f22)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-11-a"
+  ],
+  "Swift version 6.1-dev (LLVM cdc8e8b92cfb482, Swift fc03688e63434e8)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-18-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM cdc8e8b92cfb482, Swift fc03688e63434e8)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-18-a"
+  ],
+  "Swift version 6.1-dev (LLVM 89ccf4b8a46135a, Swift 6a5ae8d5df144dd)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-25-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 89ccf4b8a46135a, Swift 6a5ae8d5df144dd)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-09-25-a"
+  ],
+  "Swift version 6.1-dev (LLVM 95f3fb07f8f5294, Swift 8ae66ec1a522af4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-08-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 95f3fb07f8f5294, Swift 8ae66ec1a522af4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-08-a"
+  ],
+  "Swift version 6.1-dev (LLVM f4b733c38006ec1, Swift 5c7509bef50dbd7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-25-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM f4b733c38006ec1, Swift 5c7509bef50dbd7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-25-a"
+  ],
+  "Swift version 6.1-dev (LLVM f4b733c38006ec1, Swift f4bea5f7c0a7aa5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-27-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM f4b733c38006ec1, Swift f4bea5f7c0a7aa5)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-27-a"
+  ],
+  "Swift version 6.1-dev (LLVM 9d655fdc6103926, Swift 0d16cbf5d5ef6f9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-30-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 9d655fdc6103926, Swift 0d16cbf5d5ef6f9)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-10-30-a"
+  ],
+  "Swift version 6.1-dev (LLVM 5728735dd595a22, Swift a680211a4f8d4dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-14-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 5728735dd595a22, Swift a680211a4f8d4dc)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-14-a"
+  ],
+  "Swift version 6.1-dev (LLVM 393ce0eca916d0f, Swift 26e888e45e6ede4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-18-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 393ce0eca916d0f, Swift 26e888e45e6ede4)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-18-a"
+  ],
+  "Swift version 6.1-dev (LLVM 4ac4822eeb33a31, Swift 4e4e61e478a33ca)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-19-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 4ac4822eeb33a31, Swift 4e4e61e478a33ca)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-19-a"
+  ],
+  "Swift version 6.1-dev (LLVM 0f86f354a7bc883, Swift d3064c5fc64ba06)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-20-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 0f86f354a7bc883, Swift d3064c5fc64ba06)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-20-a"
+  ],
+  "Swift version 6.1-dev (LLVM 42f3e8ef873e24d, Swift c690fefef71c26a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-28-a",
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-29-a"
+  ],
+  "Apple Swift version 6.1-dev (LLVM 42f3e8ef873e24d, Swift c690fefef71c26a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-28-a",
+    "swift-DEVELOPMENT-SNAPSHOT-2024-11-29-a"
+  ],
+  "Swift version 6.2-dev (LLVM 4930d5a55e7728b, Swift ec5bee8bc94399a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-04-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 4930d5a55e7728b, Swift ec5bee8bc94399a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-04-a"
+  ],
+  "Swift version 6.2-dev (LLVM e404f8897f17aff, Swift c711df675df7dbb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-10-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM e404f8897f17aff, Swift c711df675df7dbb)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-10-a"
+  ],
+  "Swift version 6.2-dev (LLVM eacd872d0621a5c, Swift 8553f9956cf321d)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-12-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM eacd872d0621a5c, Swift 8553f9956cf321d)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-12-a"
+  ],
+  "Swift version 6.2-dev (LLVM 1b38440e27d7b93, Swift 0a9ab413a091180)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-16-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 1b38440e27d7b93, Swift 0a9ab413a091180)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-16-a"
+  ],
+  "Swift version 6.2-dev (LLVM aed73c6d65289c8, Swift 95ae8d1b1697175)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-19-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM aed73c6d65289c8, Swift 95ae8d1b1697175)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-19-a"
+  ],
+  "Swift version 6.2-dev (LLVM 9f6c3d784782c34, Swift 55189bae8e55169)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-22-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 9f6c3d784782c34, Swift 55189bae8e55169)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2024-12-22-a"
+  ],
+  "Swift version 6.2-dev (LLVM 9f6c3d784782c34, Swift 5c24df22a0765d7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-02-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 9f6c3d784782c34, Swift 5c24df22a0765d7)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-02-a"
+  ],
+  "Swift version 6.2-dev (LLVM 06a77c5cc0ff511, Swift 8e9f7b657285063)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-03-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 06a77c5cc0ff511, Swift 8e9f7b657285063)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-03-a"
+  ],
+  "Swift version 6.2-dev (LLVM 06a77c5cc0ff511, Swift f7fb0991b79fcda)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-05-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 06a77c5cc0ff511, Swift f7fb0991b79fcda)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-05-a"
+  ],
+  "Swift version 6.2-dev (LLVM 81859ac55f8d09a, Swift 8ec8a1229a7ea14)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-10-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 81859ac55f8d09a, Swift 8ec8a1229a7ea14)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-10-a"
+  ],
+  "Swift version 6.2-dev (LLVM fdbc1301770d574, Swift 413dcfb3b7e210b)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-31-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM fdbc1301770d574, Swift 413dcfb3b7e210b)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-01-31-a"
+  ],
+  "Swift version 6.2-dev (LLVM 6447c07cd7bd63f, Swift 4306b575908f0f6)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-03-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 6447c07cd7bd63f, Swift 4306b575908f0f6)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-03-a"
+  ],
+  "Swift version 6.2-dev (LLVM a5ea48e1c09da51, Swift c14561fba3c057a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-04-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM a5ea48e1c09da51, Swift c14561fba3c057a)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-04-a"
+  ],
+  "Swift version 6.2-dev (LLVM 5805166b4c9eb06, Swift 57234f8034befac)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-06-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 5805166b4c9eb06, Swift 57234f8034befac)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-06-a"
+  ],
+  "Swift version 6.2-dev (LLVM 23dd6ab259a178a, Swift a4a3a41b50e111e)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-18-a"
+  ],
+  "Apple Swift version 6.2-dev (LLVM 23dd6ab259a178a, Swift a4a3a41b50e111e)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2025-02-18-a"
+  ]
+}

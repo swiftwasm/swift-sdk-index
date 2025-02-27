@@ -1,0 +1,21 @@
+{
+    "$schema": "../build.schema.json",
+    "metadata": {
+        "versions": {
+            "swift": "swift-DEVELOPMENT-SNAPSHOT-2025-01-31-a",
+            "swiftwasm-build": "60e272e00bf57a77ca362551b05eba83ff08fca6"
+        }
+    },
+    "swift-sdks": {
+        "wasm32-unknown-wasi": {
+            "id": "DEVELOPMENT-SNAPSHOT-2025-02-01-a-wasm32-unknown-wasi",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-02-01-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-02-01-a-wasm32-unknown-wasi.artifactbundle.zip",
+            "checksum": "87393d13ac6a1705e92bdca6cac5b65dccf4f11f9b01e25c66b793d774fa87dc"
+        },
+        "wasm32-unknown-wasip1-threads": {
+            "id": "DEVELOPMENT-SNAPSHOT-2025-02-01-a-wasm32-unknown-wasip1-threads",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-02-01-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-02-01-a-wasm32-unknown-wasip1-threads.artifactbundle.zip",
+            "checksum": "273528a2d1acd788b74f8932988bba02f2204933c2e0b3508022778a6304cc7c"
+        }
+    }
+}

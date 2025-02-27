@@ -1,0 +1,15 @@
+{
+    "$schema": "../build.schema.json",
+    "metadata": {
+        "versions": {
+            "swift": "swift-6.0-DEVELOPMENT-SNAPSHOT-2024-06-13-a",
+            "swiftwasm-build": "da915d012499c41c8def9a2860fbf3e996863f37"
+        }
+    },
+    "swift-sdks": {
+        "wasm32-unknown-wasi": {
+            "id": "6.0-SNAPSHOT-2024-06-14-a-wasm32-unknown-wasi",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-6.0-SNAPSHOT-2024-06-14-a/swift-wasm-6.0-SNAPSHOT-2024-06-14-a-wasm32-unknown-wasi.artifactbundle.zip"
+        }
+    }
+}

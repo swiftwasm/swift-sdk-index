@@ -1,0 +1,39 @@
+{
+    "$schema": "../build.schema.json",
+    "metadata": {
+        "versions": {
+            "swift": "swift-5.10-DEVELOPMENT-SNAPSHOT-2024-05-28-a",
+            "swiftwasm-build": "0ee4713c361378301c4c7cd6a8ec772bb927691e"
+        }
+    },
+    "swift-sdks": {
+        "macos_arm64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-macos_arm64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-macos_arm64.artifactbundle.zip"
+        },
+        "ubuntu20.04_aarch64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-ubuntu20.04_aarch64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-ubuntu20.04_aarch64.artifactbundle.zip"
+        },
+        "ubuntu18.04_x86_64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-ubuntu18.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-ubuntu18.04_x86_64.artifactbundle.zip"
+        },
+        "ubuntu20.04_x86_64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-ubuntu20.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-ubuntu20.04_x86_64.artifactbundle.zip"
+        },
+        "amazonlinux2_x86_64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-amazonlinux2_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-amazonlinux2_x86_64.artifactbundle.zip"
+        },
+        "ubuntu22.04_x86_64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-ubuntu22.04_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-ubuntu22.04_x86_64.artifactbundle.zip"
+        },
+        "macos_x86_64": {
+            "id": "5.10-SNAPSHOT-2024-05-29-a-macos_x86_64",
+            "url": "https://github.com/swiftwasm/swift/releases/download/swift-wasm-5.10-SNAPSHOT-2024-05-29-a/swift-wasm-5.10-SNAPSHOT-2024-05-29-a-macos_x86_64.artifactbundle.zip"
+        }
+    }
+}
