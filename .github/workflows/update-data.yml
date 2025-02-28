@@ -10,11 +10,13 @@ permissions:
 
 jobs:
   update-data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
+      - run: curl -L https://swiftlang.github.io/swiftly/swiftly-install.sh | bash -s -- -y
       - name: Run data update scripts
         run: |
+          source $HOME/.local/share/swiftly/env.sh
           python ./tools/update-builds.py
           python ./tools/update-tag-by-version.py
 
