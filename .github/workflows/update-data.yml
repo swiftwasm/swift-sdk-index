@@ -13,10 +13,14 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-      - run: curl -L https://swiftlang.github.io/swiftly/swiftly-install.sh | bash -s -- -y
+      - name: Install swiftly
+        run: |
+          curl -L -o /tmp/swiftly.tar.gz https://download.swift.org/swiftly/linux/swiftly-0.4.0-x86_64.tar.gz
+          tar -xzf /tmp/swiftly.tar.gz -C /usr/local/bin/
+          swiftly init -y --skip-install
       - name: Run data update scripts
         run: |
-          source $HOME/.local/share/swiftly/env.sh
+          source "$HOME/.local/share/swiftly/env.sh"
           python ./tools/update-builds.py
           python ./tools/update-tag-by-version.py
 
