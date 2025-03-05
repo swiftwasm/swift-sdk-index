@@ -87,3 +87,14 @@ curl -sL "https://raw.githubusercontent.com/swiftwasm/swift-sdk-index/refs/heads
 + swift sdk install https://github.com/swiftwasm/swift/releases/download/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-01-11-a/swift-wasm-DEVELOPMENT-SNAPSHOT-2025-01-11-a-wasm32-unknown-wasi.artifactbundle.zip --checksum c9b4f4c16015d196e565105a74bf39432f8ba8139c390052b221a5c12fcaf9be
 ...
 ```
+
+### Get the id of the Swift SDK compatible with the currently selected toolchain
+
+```console
+export SWIFT_SDK_ID=$(
+  V="$(swiftc --version | head -n1)"; \
+  TAG="$(curl -sL "https://raw.githubusercontent.com/swiftwasm/swift-sdk-index/refs/heads/main/v1/tag-by-version.json" | jq -e -r --arg v "$V" '.[$v] | .[-1]')"; \
+  curl -sL "https://raw.githubusercontent.com/swiftwasm/swift-sdk-index/refs/heads/main/v1/builds/$TAG.json" | \
+  jq -r '.["swift-sdks"]["wasm32-unknown-wasi"]["id"]'
+)
+```
