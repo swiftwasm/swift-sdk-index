@@ -1086,9 +1086,11 @@
     "swift-DEVELOPMENT-SNAPSHOT-2025-02-28-a"
   ],
   "Swift version 6.1-dev (LLVM a04e1218b22ff47, Swift fc66ec88fb2737b)": [
-    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-03-a"
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-03-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-04-a"
   ],
   "Apple Swift version 6.1-dev (LLVM a04e1218b22ff47, Swift fc66ec88fb2737b)": [
-    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-03-a"
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-03-a",
+    "swift-6.1-DEVELOPMENT-SNAPSHOT-2025-03-04-a"
   ]
 }
