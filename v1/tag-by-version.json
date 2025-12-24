@@ -1598,5 +1598,11 @@
   ],
   "Apple Swift version 6.3-dev (LLVM f6e8f31819e2e67, Swift cecebdd863d2f71)": [
     "swift-DEVELOPMENT-SNAPSHOT-2025-12-19-a"
+  ],
+  "Swift version 6.3-dev (LLVM a24a64c64e9c146, Swift 63a3236c8f675e8)": [
+    "swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-21-a"
+  ],
+  "Apple Swift version 6.3-dev (LLVM a24a64c64e9c146, Swift 63a3236c8f675e8)": [
+    "swift-6.3-DEVELOPMENT-SNAPSHOT-2025-12-21-a"
   ]
 }
