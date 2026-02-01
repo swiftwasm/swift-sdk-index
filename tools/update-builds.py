@@ -24,7 +24,7 @@ def request_github_api(url: str) -> list[dict]:
     return response.json()
 
 
-def extract_versions(release: dict) -> Dict[str, str]:
+def extract_versions(release: dict) -> Dict[str, str] | None:
     """
     Extract the version from the release data
     """
@@ -43,8 +43,7 @@ def extract_versions(release: dict) -> Dict[str, str]:
                 break
     for key in patterns.keys():
         if key not in versions:
-            raise Exception(
-                f"Version info not found for \"{key}\" in release {release['tag_name']}")
+            return None
 
     return versions
 
@@ -111,6 +110,9 @@ def update_builds_directory(releases: list[dict]):
 
     for release in releases:
         versions = extract_versions(release)
+        if not versions:
+            print(f"Warning: Skipping release {release['tag_name']} due to missing version info")
+            continue
         path = builds_dir / f"{versions['swift']}.json"
         if path.exists():
             continue
