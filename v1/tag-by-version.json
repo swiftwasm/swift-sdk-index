@@ -1796,5 +1796,11 @@
   ],
   "Apple Swift version 6.4-dev (LLVM a3655ee8d8c4d74, Swift d13cbbfd336f246)": [
     "swift-DEVELOPMENT-SNAPSHOT-2026-03-16-a"
+  ],
+  "Swift version 6.3 (swift-6.3-RELEASE)": [
+    "swift-6.3-RELEASE"
+  ],
+  "Apple Swift version 6.3 (swift-6.3-RELEASE)": [
+    "swift-6.3-RELEASE"
   ]
 }
