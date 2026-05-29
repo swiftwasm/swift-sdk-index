@@ -1880,5 +1880,11 @@
   ],
   "Apple Swift version 6.5-dev (LLVM 8eebd8abb5f321f, Swift efd8843a26f9007)": [
     "swift-DEVELOPMENT-SNAPSHOT-2026-05-20-a"
+  ],
+  "Swift version 6.5-dev (LLVM 8f81a64f6a8bcf6, Swift 4d0c97fa5b05711)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-05-27-a"
+  ],
+  "Apple Swift version 6.5-dev (LLVM 8f81a64f6a8bcf6, Swift 4d0c97fa5b05711)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-05-27-a"
   ]
 }
