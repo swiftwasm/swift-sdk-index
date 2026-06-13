@@ -1892,5 +1892,11 @@
   ],
   "Apple Swift version 6.3.2 (swift-6.3.2-RELEASE)": [
     "swift-6.3.2-RELEASE"
+  ],
+  "Swift version 6.5-dev (LLVM 0ada7abaeee4c8c, Swift d1ce3ae2038d5ea)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a"
+  ],
+  "Apple Swift version 6.5-dev (LLVM 0ada7abaeee4c8c, Swift d1ce3ae2038d5ea)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-06-10-a"
   ]
 }
