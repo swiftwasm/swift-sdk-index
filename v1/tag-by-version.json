@@ -1922,5 +1922,17 @@
   ],
   "Apple Swift version 6.5-dev (LLVM 1fe0005f2103b39, Swift 1f6442f1d1fcbb7)": [
     "swift-DEVELOPMENT-SNAPSHOT-2026-08-11-a"
+  ],
+  "Swift version 6.5-dev (LLVM 64c3046d94ae7cc, Swift 95c5142e84b82c1)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-08-21-a"
+  ],
+  "Apple Swift version 6.5-dev (LLVM 64c3046d94ae7cc, Swift 95c5142e84b82c1)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-08-21-a"
+  ],
+  "Swift version 6.5-dev (LLVM 47afa53ea425e20, Swift 871a239941f3613)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a"
+  ],
+  "Apple Swift version 6.5-dev (LLVM 47afa53ea425e20, Swift 871a239941f3613)": [
+    "swift-DEVELOPMENT-SNAPSHOT-2026-08-30-a"
   ]
 }
